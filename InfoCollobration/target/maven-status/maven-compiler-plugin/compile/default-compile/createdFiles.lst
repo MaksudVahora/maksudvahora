@@ -1,0 +1,9 @@
+com\techsoft\info\service\UserBlogSRV.class
+com\techsoft\info\service\UserBlogSRV_Impl.class
+com\techsoft\info\dao\UserBlogDAO_Impl.class
+com\techsoft\info\model\UserBlogComments.class
+com\techsoft\info\dao\SimpleCORSFilter.class
+com\techsoft\info\dao\UserBlogDAO.class
+com\techsoft\info\model\UserBlog.class
+com\techsoft\info\controller\HomeController.class
+com\techsoft\info\controller\UserBlogController.class
